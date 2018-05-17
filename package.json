@@ -1,0 +1,19 @@
+{
+  "name": "ts-yaml-buildkite",
+  "version": "1.0.0",
+  "description": "Buildkite YAML types",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdsgl/ts-yaml-buildkite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdsgl/ts-yaml-buildkite/issues"
+  },
+  "homepage": "https://github.com/dvdsgl/ts-yaml-buildkite#readme"
+}
